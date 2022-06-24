@@ -1,3 +1,4 @@
 #!/bin/bash
-su bett
 su betty
+
+
