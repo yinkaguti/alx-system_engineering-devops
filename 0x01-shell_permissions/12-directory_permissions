@@ -1,2 +1,2 @@
 #!/bin/bash
-mkidir -m 751 dir_holberton
+mkdir -m 75/ my_dir
